@@ -1,0 +1,10 @@
+Steps for executing the code:
+clone this repo
+open your terminal
+change directory to the src folder
+then execute the code with the following commands:
+  -for the first script execute:
+    python lr-mnist.py
+  -for the second script execute either:
+    -python nn-mnist.py (script uses the whole dataset, might take a really long time to run)
+    -python nn-mnist_subset.py (script uses only a subset of the data, runs relatively fast)
