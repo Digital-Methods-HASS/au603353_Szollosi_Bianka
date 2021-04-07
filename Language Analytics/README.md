@@ -18,8 +18,11 @@ In order to run this script, open your terminal and
 
 1. Clone this repo with 'git clone'
 2. navigate to the apropriate folder (Assignment5) and activate a virtual environment (recommended) by: 
+      
       -python3 -m venv ass5
-      -source ass5/bin/activate
+      
+     -source ass5/bin/activate
+     
 4. Install the necessary libraries if needed (a possibility: pip install *library name*)
 5. run the script by python assignment5.py
 6. deactivate virtual environment by deactivate
