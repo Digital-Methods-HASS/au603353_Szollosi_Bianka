@@ -12,7 +12,6 @@ sys.path.append(os.path.join(".."))
 # pandas, numpy, gensim
 import pandas as pd
 import numpy as np
-import gensim.downloader
 
 # import Ross's classifier utility functions
 import utils.classifier_utils as clf
@@ -34,7 +33,6 @@ from tensorflow.keras import backend as K
 from tensorflow.keras.utils import plot_model
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
-from tensorflow.keras.regularizers import L2
 
 # matplotlib
 import matplotlib.pyplot as plt
