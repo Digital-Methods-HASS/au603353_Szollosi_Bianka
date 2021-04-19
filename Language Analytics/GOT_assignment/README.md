@@ -14,7 +14,7 @@ In order to run this script, open your terminal and:
 
 1. Clone this repo with 'git clone'
 
-2. navigate to the apropriate folder (GOT_assignment) and activate a virtual environment (recommended) by:
+2. activate a virtual environment (recommended) by:
 
 - python3 -m venv got
 
@@ -22,6 +22,6 @@ In order to run this script, open your terminal and:
 
 3. Install the necessary libraries if needed (a possibility: pip install * library * name)
 
-4. run the script by: python3 got_logistic_regression.py
+4. navigate to the apropriate folder (GOT_assignment/src) and run the script by: python3 got_logistic_regression.py
 
 5. deactivate virtual environment by deactivate
